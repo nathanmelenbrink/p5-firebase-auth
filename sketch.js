@@ -57,4 +57,6 @@ function submitToFirebase(){
 		bevs: val
         //some more entry data
     });
+
+    plotChart(); // after the user submits data, refresh the chart
 }
