@@ -1,12 +1,12 @@
 
     // Initialize Firebase
     var config = {
-      apiKey: "AIzaSyAesX3wArPp_iYZPOQ1zuWzzKKWGas8rYc",
-      authDomain: "sleep-4ba45.firebaseapp.com",
-      databaseURL: "https://sleep-4ba45.firebaseio.com",
-      projectId: "sleep-4ba45",
-      storageBucket: "sleep-4ba45.appspot.com",
-      messagingSenderId: "575568756880"
+      apiKey: " ",
+      authDomain: " ",
+      databaseURL: " ",
+      projectId: " ",
+      storageBucket: " ",
+      messagingSenderId: " "
     };
 
     firebase.initializeApp(config);
