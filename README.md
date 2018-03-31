@@ -5,4 +5,5 @@ Bits and pieces taken from Google demo code and Daniel Shiffman's Firebase tutor
 
 In order to run the demo: 
 
-1. Replace API key and database URL
+1. Replace API key and database URL with your own
+2. Make sure you have read/write permissions enabled
